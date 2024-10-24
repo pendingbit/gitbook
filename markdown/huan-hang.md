@@ -1,7 +1,6 @@
----
-description: 换行须要在末尾添加两个或者以上的空格
----
-
 # 换行
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>换行</p></figcaption></figure>
+换行须要在末尾添加两个或者以上的空格，再按回车键。
+
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
