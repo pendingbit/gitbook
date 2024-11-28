@@ -2,7 +2,7 @@
 
 `QMainWindow` 组件提供如下图所示的框架来建立UI界面。其中`QToolBars`, `QDockWidgets`, `QMenuBar`以及`QStatusBar`是框架统一布局的类，中间空白区域可以自定义各种小组件。
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 示例
 
@@ -111,5 +111,5 @@ if __name__ == "__main__":
 
 </code></pre>
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
