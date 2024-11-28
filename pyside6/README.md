@@ -12,7 +12,7 @@
 
 在windows shell中输入`pip3 install pyside6` 安装pyside6模块
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Qt Designer
 
