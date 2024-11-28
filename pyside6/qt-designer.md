@@ -26,3 +26,33 @@ app.exec()
 ```
 
 <figure><img src=".gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+```python
+# class method
+import sys
+from PySide6 import QtWidgets,QtCore
+from PySide6.QtUiTools import QUiLoader
+
+loader = QUiLoader()    #setup a loader object
+
+class UserInterfacce(QtCore.QObject):
+    def __init__(self):
+        super().__init__()
+        self.ui = loader.load("widget.ui", None)
+        self.ui.commit_button.clicked.connect(self.fun)
+    
+    def fun(self):
+        print(f"{self.ui.name_line_edit.text()} is a {self.ui.job_line_edit.text()}.")
+
+    def show(self):
+        self.ui.show()
+
+app = QtWidgets.QApplication(sys.argv)
+
+window = UserInterfacce()
+window.show()
+
+app.exec()
+
+```
+
