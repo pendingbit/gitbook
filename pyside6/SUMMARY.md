@@ -17,3 +17,4 @@
 * [QComboBox](qcombobox.md)
 * [Qt Designer](qt-designer.md)
 * [Compiling .ui Files to Python](compiling-.ui-files-to-python.md)
+* [Using Resources](using-resources.md)

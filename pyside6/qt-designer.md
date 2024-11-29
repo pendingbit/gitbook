@@ -2,7 +2,7 @@
 
 通过Qt Designer软件绘制ui界面，绘制完毕另存为.ui文件
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 在python代码中加载.ui界面，并通过objectName获取对应组件。
 
