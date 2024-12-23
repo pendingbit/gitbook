@@ -1,4 +1,3 @@
-# Page
+# Workflow
 
-<figure><img src=".gitbook/assets/git_record_change.jpg" alt=""><figcaption></figcaption></figure>
-
+<figure><img src=".gitbook/assets/git work flow.png" alt=""><figcaption></figcaption></figure>

@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [Workflow](README.md)
+* [Command](command.md)
+* [CMD MAP](cmd-map.md)
